@@ -13,4 +13,10 @@ pnpm dev
 bun dev
 ```
 
+## Email y Password Mock
+```
+email: ejemplo@ejemplo.com
+password: 1234
+```
+
 Open [http://localhost:3000](http://localhost:3000)
