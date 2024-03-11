@@ -1,0 +1,17 @@
+.input-text {
+	border-radius: 4px;
+	padding: 7px 17px;
+	border: 1px solid #ccc;
+}
+
+.input-text__container {
+	display: flex;
+	flex-direction: column;
+	gap: 8px;
+}
+
+.input-text__error-msg {
+	color: red;
+	margin-top: 4px;
+	font-size: .6rem;
+}

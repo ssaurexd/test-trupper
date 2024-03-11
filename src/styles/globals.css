@@ -1,0 +1,27 @@
+* {
+	box-sizing: border-box;
+}
+
+.main-home {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+}
+.main-home__item-container {
+	width: 100%;
+	max-width: 500px;
+	display: flex;
+	flex-direction: column;
+	border-left: 2px solid #e0e0e0;
+	padding-left: 8px;
+}
+
+.main-home__item-container-station{
+	width: 100%;
+	max-width: 500px;
+	display: flex;
+	flex-direction: column;
+	border-left: 2px solid #e0e0e0;
+	padding-left: 8px;
+}
